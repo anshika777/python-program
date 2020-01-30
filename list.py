@@ -6,6 +6,4 @@ for i in range(11):
          a.append(b)
          
     print("your list is",a)
-
-else("number is 0")
-break;
+    
