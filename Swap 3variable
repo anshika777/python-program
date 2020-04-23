@@ -1,0 +1,6 @@
+val1=int(input("Enter a no. :"))
+val2=int(input("Enter a no. :"))
+c=val1
+val1=val2
+val2=c
+print("After SWAPPING : a = ",val1," b = ",val2)
